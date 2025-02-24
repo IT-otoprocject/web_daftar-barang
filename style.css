@@ -1,3 +1,26 @@
+/* CSS code */
+.button1 {
+    border: 1px solid black;
+    border-radius: 30px;
+    text-decoration: none;
+    background-color: black; /* Set background color to black */
+    color: white;
+    padding: 10px;
+    display: inline-flex; /* Use flexbox for centering */
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+    width: 150px; /* Adjust the width as needed */
+    height: 30px; /* Adjust the height as needed */
+}
+
+.button1 h4 {
+    margin: 0; /* Remove margin */
+    padding: 0; /* Remove padding */
+    line-height: 1; /* Reset line-height */
+}
+
+
+
 table {
     width: 90%;
     border-collapse: collapse;
